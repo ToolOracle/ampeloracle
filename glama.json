@@ -1,1 +1,14 @@
-{"name": "AmpelOracle", "description": "DORA traffic light compliance system \u2014 24 MCP tools for entity-level readiness across all DORA articles", "category": "compliance", "tags": ["dora", "compliance", "regulation", "eu"], "tools": 24, "transport": "streamable-http", "endpoint": "https://tooloracle.io/ampel/mcp/"}
+{
+  "name": "AmpelOracle",
+  "description": "DORA Operating System \u2014 49 tools for regulatory compliance, closed-loop assessment, evidence signing via MCP",
+  "repository": "https://github.com/ToolOracle/ampeloracle",
+  "endpoint": "https://tooloracle.io/ampel/mcp/",
+  "tools": 49,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "compliance",
+    "mcp",
+    "ai-agent"
+  ]
+}
