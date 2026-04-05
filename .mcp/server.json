@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/doraampeloracle",
+  "description": "DORA AmpelOracle \u2014 Full DORA ICT risk management: 46 tools, 6 entity types, findings engine, escalation, control graph. Art. 5-44.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/dora/mcp/"
+    }
+  ]
+}
