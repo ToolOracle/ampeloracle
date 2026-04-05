@@ -1,0 +1,5 @@
+name: DORA AmpelOracle
+description: DORA ICT risk management — 46 tools, Art. 5-44
+endpoint: https://tooloracle.io/dora/mcp/
+transport: streamable-http
+license: MIT
